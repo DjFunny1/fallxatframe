@@ -1,0 +1,15 @@
+.bodygif {
+    background-color: rgba(76, 175, 80, 0%);
+}
+
+#button {
+    background-color: rgb(167, 167, 167);
+    color: black;
+    width: 5rem;
+}
+
+.masterdiv {
+    display: flex;
+    flex-direction: column;
+}
+

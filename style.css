@@ -1,9 +1,15 @@
+/* .body {
+    margin-top: 2rem;
+} */
+
 .bodygif {
     background-color: rgba(76, 175, 80, 0%);
 }
 
 #button {
-    background-color: rgb(167, 167, 167);
+    margin-top: 3rem;
+    background-color: rgba(167, 167, 167, 0);
+    border: solid black;
     color: black;
     width: 5rem;
 }
